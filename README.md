@@ -38,7 +38,7 @@ Before deploying, you need:
 
 ```bash
 git clone <your-repo>
-cd anti051
+cd demo-proto
 npm install
 ```
 
@@ -190,7 +190,7 @@ The order is saved automatically and reflected on the home page immediately.
 ## Project Structure
 
 ```
-anti051/
+demo-proto/
 ├── prisma/
 │   └── schema.prisma       # Database schema
 ├── src/
